@@ -6,5 +6,5 @@
 <img src="https://media.tenor.com/1hF_F_U3r2oAAAAj/cœur.gif" width="100" />
 
 📫 Telegram: [@vanchance](https://t.me/vanchance)
-
+## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanchance&show_icons=true&theme=dark) [![LeetCode Stats](https://leetcard.jacoblin.cool/vanchance?theme=dark&font=Baloo)](https://leetcode.com/vanchance/) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanchance&layout=compact&theme=dark) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanchance&show_icons=true&theme=tokyonight&count_private=true)
