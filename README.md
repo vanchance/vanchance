@@ -3,7 +3,7 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <br clear="left"/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[<img src="https://media.tenor.com/1hF_F_U3r2oAAAAj/cœur.gif" width="100" />]
+<img src="https://media.tenor.com/1hF_F_U3r2oAAAAj/cœur.gif" width="100" />
 
 📫 Telegram: [@vanchance](https://t.me/vanchance)
 
