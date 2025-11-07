@@ -10,7 +10,8 @@
 📫 Telegram: [@vanchance](https://t.me/vanchance)
 
 📫 VKontakte: [my profile](https://vk.com/vanchance)
-!(https://tenor.com/ru/view/i-am-music-playboi-carti-i-am-ai-gif-15340089804925803286)
+<img src="assets/i-am-music.gif" width="300" alt="I am music" />
+
 ## My stats in GitHub:
 ## ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanchance&theme=tokyo-night)
 ## ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanchance&theme=tokyonight)
