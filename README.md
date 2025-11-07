@@ -6,6 +6,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <img src="https://media.tenor.com/1hF_F_U3r2oAAAAj/cœur.gif" width="100" />
 
+## Contact me in:
 📫 Telegram: [@vanchance](https://t.me/vanchance)
-
+📫 VKontakte: [my profile](https://vk.com/vanchance)
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanchance&show_icons=true&theme=tokyonight&count_private=true)
