@@ -7,7 +7,8 @@
 
 📫 Telegram: [@vanchance](https://t.me/vanchance)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<vanchance>&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<vanchance>&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=<vanchance>&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanchance&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanchance&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=vanchance&theme=tokyonight&hide_border=true)
+
 
